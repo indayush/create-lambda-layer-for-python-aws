@@ -1,6 +1,9 @@
 # Enter the package name to build Python Lambda Layer
 # NOTE: Made for Python 3.9, if using different version, change in venv step
 
+# Referred the following doc -
+# https://www.linkedin.com/pulse/add-external-python-libraries-aws-lambda-using-layers-gabe-olokun/
+
 # e.g. - building for boto3 library
 
 PACKAGE_NAME=boto3
